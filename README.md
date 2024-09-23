@@ -3,7 +3,9 @@
 
 ## Group Details
 UpGrad and IIITB Machine Learnig and AI Program July 2024 - ML C67
+
 Group Facilitator: Umesh Goyal (umeshg1981@gmail.com)
+
 Group Member: Krishna Kumar.S (urkrishna@gmail.com)
 
 ## Table of Contents
